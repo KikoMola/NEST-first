@@ -42,9 +42,7 @@ $ npm run start:prod
 
 ## De dónde se ha sacado el código
 ```bash
-
-# watch mode
-$ Del canal de Fernando Herrera en YouTube
+ Del canal de Fernando Herrera en YouTube
 ```
 
 
