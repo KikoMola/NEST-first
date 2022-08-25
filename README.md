@@ -28,17 +28,6 @@
 $ npm install
 ```
 
-## Running the app
-
-```bash
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
 
 ## De dónde se ha sacado el código
 ```bash
